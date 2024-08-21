@@ -12,3 +12,5 @@ Page backwards and forwards
 * Make it editable, either through using a custom editor or a custom language handler.
 * Highlight or navigate to that location in the actual document
 * When launching, launch to the current record if any.
+* Make it work with any level, not just the first order.
+* Make it work with other heriarchal data formats such as XML.
