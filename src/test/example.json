@@ -1,0 +1,9 @@
+{
+    "first": {
+        "foo": "bar"
+    },
+    "second:": {
+        "boo": "fabbo",
+        "something": "another thing"
+    }
+}
